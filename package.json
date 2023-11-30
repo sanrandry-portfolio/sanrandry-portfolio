@@ -1,0 +1,12 @@
+{
+  "name": "srpf",
+  "version": "1.0.0",
+  "private": true,
+  "description": "this is the repository for san randry portfolio",
+  "repository": "https://github.com/sanrandry-portfolio/sanrandry-portfolio.git",
+  "author": "san randry",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}
